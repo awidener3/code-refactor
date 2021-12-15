@@ -5,6 +5,9 @@
 ## 🔨 Task
 **Refactor** existing code from a website to meet the standards of a hypothetical marketing agency. Their goal is to make their website *more accessible*.
 
+## Preview
+![A preview of the Horiseon website](./assets/images/01-html-css-git-homework-demo.png)
+
 ## 📝 User Story
 
 ```
