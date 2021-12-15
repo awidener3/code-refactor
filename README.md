@@ -3,7 +3,7 @@
 📌 [Link to Live Website](https://awidener3.github.io/code-refactor/ "Code Refactor")
 
 ## 🔨 Task
-**Refactor** existing code from a website to meet the standards of a hypothetical marketing agency. Their goal is to make their website *more accessible*.
+**Refactor** existing code from a website to meet the standards of a hypothetical marketing agency. Their goal is to make their website *more accessible* by using semantic tags and descriptive alt tags for images and icons. They would also like their CSS to be concise, with little repeated code.
 
 ## Preview
 ![A preview of the Horiseon website](./assets/images/01-html-css-git-homework-demo.png)
